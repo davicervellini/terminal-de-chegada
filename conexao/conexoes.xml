@@ -1,0 +1,11 @@
+<sistema>
+	
+	<conexao nomeConexao="terminal_de_chegada" type="mysql">
+        <hostname>127.0.0.1</hostname>
+        <username>root</username>
+        <password></password>
+        <database>terminal_de_chegada</database>
+        <port>3306</port>
+    </conexao>
+
+</sistema>
